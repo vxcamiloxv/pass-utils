@@ -1,8 +1,8 @@
-# password-store utils
+# password-store utilities
 
-[Password-store][pass] utilities to extend their functionality, this contain a
-[rofi][rofi] UI and a wrapper to disable clipboard manager and avoid store our
-secrets in plain text!
+[Password-store][pass] utilities to extend their functionality, this
+contain a [rofi][rofi] UI and a wrapper to disable clipboard manager
+and avoid store our secrets in plain text!
 
 ## Requirements
 - password-store
@@ -31,8 +31,8 @@ for the symlink `~/.local/bin/` bus be added to your [$PATH][path]
 Pass-rofi support direct invocation or via rofi [modi][modi] mode, by
 default use `passp`.
 
-Copy `passrofi.desktop` to `~/.local/share/applications` or add the script
-path to `rofi.modi` configuration.
+Copy `passrofi.desktop` to `~/.local/share/applications` or add the
+script path to `rofi.modi` configuration.
 
  [pass]: https://www.passwordstore.org
  [modi]: https://github.com/davatorium/rofi/wiki/mode-Specs
